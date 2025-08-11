@@ -2,6 +2,8 @@
 
 Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e matrículas em uma instituição de ensino.
 
+Entre com o link: https://primeirodeploy-520977563078.southamerica-east1.run.app/docs
+
 ## Pré-requisitos
 
 - [Python 3.10 ou superior instalado](https://www.python.org/downloads/)
